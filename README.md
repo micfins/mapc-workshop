@@ -1,1 +1,2 @@
-# mapc-workshop
+# GA and MPAC: Git Workshoop
+
